@@ -1,0 +1,8 @@
+{
+  "name": "com.petersrin.eventbus",
+  "version": "1.0.0",
+  "displayName": "Event Bus",
+  "description": "Provides event bus, as well as singleton and local MonobeBaviour variants.",
+  "unity": "2019.1",
+  "unityRelease": "0b5"
+}
